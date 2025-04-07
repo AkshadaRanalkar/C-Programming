@@ -3,6 +3,8 @@
 Welcome to my **C Programming Practice Repository**! 👨‍💻  
 This is where I upload my daily C programs as I continue learning and mastering the C language. Whether it’s basic syntax or tricky logic-building, you’ll find a wide variety of standalone programs here.
 
+C programming language was developed in the early 1970s by American computer scientist Dennis M. Ritchie at Bell Laboratories. C programming is a Procedural Programming language. C programming is a native programming language. Native means it is close to the microprocessor. Since language is considered as native it is difficult to learn. C is a powerful language. All operating systems are written using C language in (Unix, Linux, Windows, Mac OS)
+
 ---
 
 ## 📚 About This Repo
@@ -56,4 +58,12 @@ Here's a sneak peek into what some of the files do (and many more will come!):
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+   ```
+2. Compile code:
+   ```bash
+   gcc program_name.c -o myexe
+   ```
+3. Run code:
+   ```bash
+   .\myexe
    ```
