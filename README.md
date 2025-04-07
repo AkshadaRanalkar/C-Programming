@@ -22,7 +22,8 @@ Here's a sneak peek into what some of the files do (and many more will come!):
 
 | 🗂️ File Name           | 🔍 Description                                      |
 | ---------------------- | --------------------------------------------------- |
-| `hello_world.c`        | Prints "Hello, World!" — the classic first program. |
+| `1.c`                  | Prints "Hello, World!" — the classic first program. |
+| `2.c`                  | Primitive data types with format specifiers.        |
 | `sum_of_two_numbers.c` | Adds two numbers entered by the user.               |
 | `factorial.c`          | Calculates factorial using loops or recursion.      |
 | `prime_check.c`        | Checks if a number is prime or not.                 |
