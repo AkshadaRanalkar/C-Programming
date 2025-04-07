@@ -34,12 +34,15 @@ What operations we can perform
 int main()
 {
     int num = 10;
-    float no = 20.5;
+    float no = 3.123764;
+    double doub = 2.87878787878787; 
     char ch = 'a';
 
     printf("Integer %d \n",num);
     printf("Float %f \n",no);
     printf("Float %.2f \n",no);
+    printf("Double %lf \n",doub);
+    printf("Double %.9lf \n",doub);
     printf("Character %c \n",ch);
 
     return 0;
