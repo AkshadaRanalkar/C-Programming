@@ -34,17 +34,18 @@ What operations we can perform
 
 int main()
 {
-    int num = 10;
-    float no = 3.123764;
-    double doub = 2.87878787878787; 
-    char ch = 'a';
+   // local variables
+   int num = 10;
+   float no = 3.123764;
+   double doub = 2.87878787878787; 
+   char ch = 'a';
 
-    printf("Integer %d \n",num);
-    printf("Float %f \n",no);
-    printf("Float %.2f \n",no);
-    printf("Double %lf \n",doub);
-    printf("Double %.9lf \n",doub);
-    printf("Character %c \n",ch);
+   printf("Integer %d \n",num); // % stands for format specifier %d int %f float %c character %lf double
+   printf("Float %f \n",no);
+   printf("Float %.2f \n",no);
+   printf("Double %lf \n",doub);
+   printf("Double %.9lf \n",doub);
+   printf("Character %c \n",ch);
 
-    return 0;
+   return 0;
 }
