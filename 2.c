@@ -1,8 +1,9 @@
 /* Data Types:
 1] Premitive/ Basic Data Types:
                                  
-Character  Integer  Float  Double  Void      
-  char      int     float  double  void       
+Character  Integer  Float   Double   Void      
+  char      int     float   double   void    
+ 1 byte   4 bytes 4 bytes  8 bytes   N/A   
 
 2]Derived Data Types:
 
