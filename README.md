@@ -26,6 +26,10 @@ Here's a sneak peek into what some of the files do (and many more will come!):
 | `2.c`                  | Primitive data types with format specifiers.        |
 | `3.c`                  | Data type Quantifier.                               |
 | `4.c`                  | Data type Modifier.                                 |
+| `5.c`                  | Functions.                                          |
+| `6.c`                  | Storage Classes.                                    |
+| `4.c`                  | Data type Modifier.                                 |
+| `4.c`                  | Data type Modifier.                                 |
 | `sum_of_two_numbers.c` | Adds two numbers entered by the user.               |
 | `factorial.c`          | Calculates factorial using loops or recursion.      |
 | `prime_check.c`        | Checks if a number is prime or not.                 |
