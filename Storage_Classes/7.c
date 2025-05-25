@@ -53,6 +53,5 @@ int main()
     return 0;
 }
 
-/*In the above program variable A, B, C and D are local Variables.
-They are all of auto storage class.
-int A and B are default auto as they are local variables.*/
+/*In the above program variable A is of auto storage class.
+Variable B and C is of register storage class.*/
