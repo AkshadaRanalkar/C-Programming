@@ -60,7 +60,7 @@ There are 4 storage classes in C & C++.
 
 ## Concept of Storage class is same in all programming languages:
 
-[alt text](/Storage_Classes/Storage_class.png)
+[Storage_class.png](/Storage_Classes/Storage_class.png)
 
 > 🛠️ All files are kept in the same folder for easy access — no complex folders, just open and explore!
 
