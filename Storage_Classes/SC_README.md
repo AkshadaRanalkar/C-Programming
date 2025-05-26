@@ -73,11 +73,13 @@ There are 4 storage classes in C & C++.
 3. If the variable is created globally then the default storage class of that variable is extern.
 4. The extern keyword is used if we want to access the global variable from one file into another file.
 5. All the global variables get the memory inside data section.
-6. The Data section is divided into two parts:
-   -- a. bss (Block starting with symbol):  
-    This section contains all about non initialized global variables.
-   -- b. non bss (Block starting with value):  
+6. The Data section is divided into two parts:  
+    -- a. bss (Block starting with symbol):  
+    This section contains all about non initialized global variables.  
+    -- b. non bss (Block starting with value):  
     It contains the initialized global variables.
+
+   ![bss image](./bss.png)
 
 ### • Declaration VS. Definition:
 
@@ -91,8 +93,6 @@ Note: We can’t initialize the variable with extern keyword because there is no
 Definition is a statement where the name of variable, its data type, its value gets identified and at that point the memory for the variable is also allocated.  
 Eg: int No = 11; ---definition  
 int x; ---definition
-
-![bss image](./bss.png)
 
 ## • Static Storage Class:
 
