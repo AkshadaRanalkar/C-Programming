@@ -21,6 +21,12 @@ There are 4 storage classes in C & C++.
 
 ---
 
+## Concept of Storage class is same in all programming languages:
+
+![Storage_class image](./Storage_class.png)
+
+---
+
 ## • Auto Storage Class:
 
 1. Every local variable is considered as a variable with auto storage class, that is; auto is the default storage class for every local variable.
@@ -51,16 +57,14 @@ There are 4 storage classes in C & C++.
 4. The extern keyword is used if we want to access the global variable from one file into another file.
 5. All the global variables get the memory inside data section.
 6. The Data section is divided into two parts:
-   a. bss (Block starting with symbol):
+   --bss (Block starting with symbol):
    This section contains all about non initialized global variables.
-   b. non bss (Block starting with value):
+   --non bss (Block starting with value):
    It contains the initialized global variables.
 
+   ![bss image](./bss.png)
+
 ---
-
-## Concept of Storage class is same in all programming languages:
-
-![Storage_class image](./Storage_class.png)
 
 > 🛠️ All files are kept in the same folder for easy access — no complex folders, just open and explore!
 
