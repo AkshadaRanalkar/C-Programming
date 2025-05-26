@@ -4,6 +4,23 @@ Concept of storage class is almost language independent. It is almost same in ev
 The concept of storage class completely depends upon the logic that we used to write the application.
 There are 4 storage classes in C & C++.
 
+---
+
+## Index: Storage_Classes
+
+| 🗂️ File Name        | 🔍 Description            |
+| ------------------- | ------------------------- |
+| `6.c`               | Storage Classes: Auto     |
+| `7.c`               | Storage Classes: Register |
+| `8.c`               | Storage Classes: Extern   |
+| `9.c`               | Storage Classes: Extern   |
+| `10.c`              | Storage Classes: Static   |
+| `11.c`              | Storage Classes: Static   |
+| `bss.png`           | bss & non bss image       |
+| `Storage_class.png` | Storage Class table image |
+
+---
+
 ## Every storage class is dependent upon the below points:
 
 1. Where the memory gets allocated for the variable?
@@ -51,7 +68,8 @@ There are 4 storage classes in C & C++.
 
 ## • Extern Storage Class:
 
-• Declaration VS. Definition:  
+• Declaration VS. Definition:
+
 -- Declaration:
 Declaration is considered as such a place in the program which just notifies about the name of variable, its data type. In case of declaration there is no memory allocation. If the variable is created with the ‘extern’ keyword then it is considered as the declaration  
 Eg: extern int A;
@@ -65,9 +83,16 @@ int x; ---definition
 
 ![bss image](./bss.png)
 
----
+## • Static Storage Class:
 
-> 🛠️ All files are kept in the same folder for easy access — no complex folders, just open and explore!
+1. The static storage class is used to preserve the value of a variable across the function calls.
+2. When we call the function for the first time the value of the local static variable gets updated and when we call the function next time we get the previous updated value.
+3. The concept of static is used in the topic named as Recursion. Calling the function from the same function itself is called as recursion.
+
+## • Global Static Variable:
+
+1. We can create the static variable either inside the function (local static) or outside the function (global static).
+2. If the variable is created as global static variable than that variable is only accessible inside the file means we cannot access that global static variable outside the file using the extern keyword.
 
 ---
 
