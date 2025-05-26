@@ -58,8 +58,8 @@ Eg: extern int A;
 
 Note: We can’t initialize the variable with extern keyword because there is no memory allocation.
 
--- Definition:
-Definition is a statement where the name of variable, its data type, its value gets identified and at that point the memory for the variable is also allocated.
+-- Definition:  
+Definition is a statement where the name of variable, its data type, its value gets identified and at that point the memory for the variable is also allocated.  
 Eg: int No = 11; ---definition
 Int x; ---definition
 
