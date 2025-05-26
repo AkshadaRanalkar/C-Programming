@@ -83,7 +83,7 @@ There are 4 storage classes in C & C++.
 
 ### • Declaration VS. Definition:
 
--- Declaration:
+-- Declaration:  
 Declaration is considered as such a place in the program which just notifies about the name of variable, its data type. In case of declaration there is no memory allocation. If the variable is created with the ‘extern’ keyword then it is considered as the declaration  
 Eg: extern int A;
 
