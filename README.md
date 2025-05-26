@@ -20,25 +20,29 @@ You'll find programs ranging from beginner to intermediate level — perfect for
 
 Here's a sneak peek into what some of the files do (and many more will come!):
 
-| 🗂️ File Name           | 🔍 Description                                      |
-| ---------------------- | --------------------------------------------------- |
-| `1.c`                  | Prints "Hello, World!" — the classic first program. |
-| `2.c`                  | Primitive data types with format specifiers.        |
-| `3.c`                  | Data type Quantifier.                               |
-| `4.c`                  | Data type Modifier.                                 |
-| `5.c`                  | Functions.                                          |
-| `6.c`                  | Storage Classes: Auto                               |
-| `7.c`                  | Storage Classes: Register                           |
-| `8.c`                  | Storage Classes: Extern                             |
-| `sum_of_two_numbers.c` | Adds two numbers entered by the user.               |
-| `factorial.c`          | Calculates factorial using loops or recursion.      |
-| `prime_check.c`        | Checks if a number is prime or not.                 |
-| `fibonacci_series.c`   | Generates Fibonacci series up to a given number.    |
-| `arrays_example.c`     | Demonstrates simple array operations.               |
-| `pointers_demo.c`      | Shows how pointers work in C.                       |
-| `string_operations.c`  | Performs basic string manipulations.                |
-| `file_handling.c`      | Basic file reading and writing using `FILE` in C.   |
-| `structures_example.c` | Uses `struct` to create custom data types.          |
+| 🗂️ File Name           | 🔍 Description                                       |
+| ---------------------- | ---------------------------------------------------- |
+| `1.c`                  | Prints "Hello, World!" — the classic first program.  |
+| `2.c`                  | Primitive data types with format specifiers.         |
+| `3.c`                  | Data type Quantifier.                                |
+| `4.c`                  | Data type Modifier.                                  |
+| `5.c`                  | Functions.                                           |
+| `Storage Classes`      | Storage Classes: Auto 6.c, 7.c, 8.c, 9.c, 10.c, 11.c |
+| `6.c`                  | Storage Classes: Auto                                |
+| `7.c`                  | Storage Classes: Register                            |
+| `8.c`                  | Storage Classes: Extern                              |
+| `9.c`                  | Storage Classes: Extern                              |
+| `10.c`                 | Storage Classes: Static                              |
+| `11.c`                 | Storage Classes: Static                              |
+| `sum_of_two_numbers.c` | Adds two numbers entered by the user.                |
+| `factorial.c`          | Calculates factorial using loops or recursion.       |
+| `prime_check.c`        | Checks if a number is prime or not.                  |
+| `fibonacci_series.c`   | Generates Fibonacci series up to a given number.     |
+| `arrays_example.c`     | Demonstrates simple array operations.                |
+| `pointers_demo.c`      | Shows how pointers work in C.                        |
+| `string_operations.c`  | Performs basic string manipulations.                 |
+| `file_handling.c`      | Basic file reading and writing using `FILE` in C.    |
+| `structures_example.c` | Uses `struct` to create custom data types.           |
 
 > 🛠️ All files are kept in the same folder for easy access — no complex folders, just open and explore!
 
