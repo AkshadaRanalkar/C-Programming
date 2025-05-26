@@ -51,17 +51,17 @@ There are 4 storage classes in C & C++.
 
 ## • Extern Storage Class:
 
-• Declaration VS. Definition:
+• Declaration VS. Definition:  
 -- Declaration:
-Declaration is considered as such a place in the program which just notifies about the name of variable, its data type. In case of declaration there is no memory allocation. If the variable is created with the ‘extern’ keyword then it is considered as the declaration.
+Declaration is considered as such a place in the program which just notifies about the name of variable, its data type. In case of declaration there is no memory allocation. If the variable is created with the ‘extern’ keyword then it is considered as the declaration  
 Eg: extern int A;
 
 Note: We can’t initialize the variable with extern keyword because there is no memory allocation.
 
 -- Definition:  
 Definition is a statement where the name of variable, its data type, its value gets identified and at that point the memory for the variable is also allocated.  
-Eg: int No = 11; ---definition
-Int x; ---definition
+Eg: int No = 11; ---definition  
+int x; ---definition
 
 ![bss image](./bss.png)
 
