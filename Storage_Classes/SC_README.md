@@ -15,7 +15,6 @@ There are 4 storage classes in C & C++.
 | `8.c`               | Storage Classes: Extern   |
 | `9.c`               | Storage Classes: Extern   |
 | `10.c`              | Storage Classes: Static   |
-| `11.c`              | Storage Classes: Static   |
 | `bss.png`           | bss & non bss image       |
 | `Storage_class.png` | Storage Class table image |
 
