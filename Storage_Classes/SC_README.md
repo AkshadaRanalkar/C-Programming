@@ -104,36 +104,3 @@ int x; ---definition
 
 1. We can create the static variable either inside the function (local static) or outside the function (global static).
 2. If the variable is created as global static variable than that variable is only accessible inside the file means we cannot access that global static variable outside the file using the extern keyword.
-
----
-
-## 🧰 Tools & Technologies
-
-- 🔤 **Language**: C
-- 🧪 **Compiler**: GCC (or any C compiler)
-- 🖥️ **Editor**: VS Code / Code::Blocks / Turbo C / Any IDE
-
----
-
-## 🎯 Goals of This Repo
-
-- Practice and improve C programming skills daily 🧠
-- Build a reference of working code snippets 🔎
-- Help beginners understand how to write simple C programs 👶
-
----
-
-## 🙌 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Compile code:
-   ```bash
-   gcc program_name.c -o myexe
-   ```
-3. Run code:
-   ```bash
-   .\myexe
-   ```
