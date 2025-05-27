@@ -25,12 +25,3 @@ int main()
 
     return 0;
 }
-
-/*
-In the above application all the steps which are used to perform
-the addition gets executed in the sequence.asm
-
-scanf: This function is used to accept the input from the user from
-the input device ie. keyboard.
-This function is declared in 'stdio.h' header file.
-*/
