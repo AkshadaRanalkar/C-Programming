@@ -36,7 +36,7 @@ Here's a sneak peek into what some of the files do (and many more will come!):
 | `11.c`                 | Sequence                                             |
 | `12.c`                 | Selection: if else                                   |
 | `13.c`                 | Selection: switch case                               |
-| `10.c`                 | Storage Classes: Static                              |
+| `14.c`                 | Iteration: for loop                                  |
 | `bss.png`              | bss & non bss image                                  |
 | `Storage_class.png`    | Storage Class table image                            |
 | `sum_of_two_numbers.c` | Adds two numbers entered by the user.                |
