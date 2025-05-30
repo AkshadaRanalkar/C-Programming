@@ -1,0 +1,6 @@
+/*
+If we want to execute single statement or set of multiple statements in a repeated
+manner then we have to use the concept of loops. By using the concept of loops we
+can design the complex applications by writing the short syntax.
+
+*/
