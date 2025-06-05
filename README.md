@@ -39,6 +39,10 @@ Here's a sneak peek into what some of the files do (and many more will come!):
 | `14.c`                 | Iteration: for loop                                  |
 | `15.c`                 | Iteration: while loop                                |
 | `16.c`                 | Iteration: do-while loop                             |
+| `17.c`                 | Size of and Address of                               |
+| `16.c`                 | Iteration: do-while loop                             |
+| `16.c`                 | Iteration: do-while loop                             |
+| `16.c`                 | Iteration: do-while loop                             |
 | `bss.png`              | bss & non bss image                                  |
 | `Storage_class.png`    | Storage Class table image                            |
 | `sum_of_two_numbers.c` | Adds two numbers entered by the user.                |
