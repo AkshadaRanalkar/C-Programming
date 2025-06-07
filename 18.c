@@ -63,3 +63,25 @@ of variable as the size of array.
        double dArr = {100.2738, 2738.746, 28933.33474, 8244.4874};
 
 */
+
+#include <stdio.h>
+
+int main()
+{
+  int Arr[4] = {10, 20, 30, 40};
+
+  printf("%d\n", Arr[0]);         // 10
+  printf("%d\n", Arr[1]);         // 20
+  printf("%d\n", Arr[2]);         // 30
+  printf("%d\n", Arr[3]);         // 40
+  printf("%d\n", sizeof(Arr));    // 16
+  printf("%d\n", sizeof(Arr[2])); // 4
+  printf("%d\n", Arr);
+  printf("%d\n", &Arr);    // same as Arr
+  printf("%d\n", &Arr[0]); // same as Arr
+  printf("%d\n", &Arr[1]);
+  printf("%d\n", &Arr[2]);
+  printf("%d\n", &Arr[3]);
+
+  return 0;
+}
