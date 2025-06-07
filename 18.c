@@ -85,3 +85,15 @@ int main()
 
   return 0;
 }
+
+/*
+If we consider the name of array then it is internally considered as the
+base address of the first element of that array.
+By using the concept of addresses, the array topic gets related with the pointers.
+If we create the array with some specified size and if we initialize less number
+of elements using member initialization list, then the non-initialized elements
+gets automatically initialized with 0, 0.0 and \0. The above rule is only applicable
+if we initialize the data using the Member initialization list.
+If we create the array with less number of elements and if we try to initialize more
+values in it then the compiler will generate error.
+*/
