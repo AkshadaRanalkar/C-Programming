@@ -1,5 +1,5 @@
 /*
-Pointer to pointer:
+• Pointer to pointer:
 We can create a pointer which can hold the address of another pointer.
 */
 

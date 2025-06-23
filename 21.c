@@ -1,5 +1,5 @@
 /*
-Pointers
+• Pointers
 */
 
 #include <stdio.h>
@@ -30,6 +30,14 @@ int main()
     printf("%d \n", &iptr);
     printf("%d \n", &cptr);
     printf("%d \n", &dptr);
+
+    printf("%d\n", sizeof(iptr));
+    printf("%d\n", sizeof(cptr));
+    printf("%d\n", sizeof(dptr));
+
+    printf("%d\n", sizeof(*iptr)); // 4
+    printf("%d\n", sizeof(*cptr)); // 1
+    printf("%d\n", sizeof(*dptr)); // 8
 
     return 0;
 }

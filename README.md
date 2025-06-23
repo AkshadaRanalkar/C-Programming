@@ -44,10 +44,15 @@ Here's a sneak peek into what some of the files do (and many more will come!):
 | `19.c`                 | Multi-dimensional Array                              |
 | `20.c`                 | Pointers                                             |
 | `21.c`                 | Pointers                                             |
-| `22.c`                 | Pointers                                             |
-| `23.c`                 | Pointers                                             |
+| `22.c`                 | Pointers (Pointer to pointer)                        |
+| `23.c`                 | Pointers (Array and Pointers)                        |
 | `24.c`                 | Pointers                                             |
-| `19.c`                 | Multi-dimensional Array                              |
+| `25.c`                 | Pointers (Pointer Arithmetic)                        |
+| `26.c`                 | Pointers                                             |
+| `27.c`                 | Pointers                                             |
+| `28.c`                 | Pointers                                             |
+| `29.c`                 | Pointers                                             |
+| `30.c`                 | Multi-dimensional Array                              |
 | `19.c`                 | Multi-dimensional Array                              |
 | `16.c`                 | Iteration: do-while loop                             |
 | `bss.png`              | bss & non bss image                                  |
