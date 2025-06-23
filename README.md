@@ -48,9 +48,9 @@ Here's a sneak peek into what some of the files do (and many more will come!):
 | `23.c`                 | Pointers (Array and Pointers)                        |
 | `24.c`                 | Pointers                                             |
 | `25.c`                 | Pointers (Pointer Arithmetic)                        |
-| `26.c`                 | Pointers                                             |
-| `27.c`                 | Pointers                                             |
-| `28.c`                 | Pointers                                             |
+| `26.c`                 | Pointers (Void Pointer)                              |
+| `27.c`                 | Pointers (NULL pointer)                              |
+| `28.c`                 | Pointers (Function Pointer)                          |
 | `29.c`                 | Pointers                                             |
 | `30.c`                 | Multi-dimensional Array                              |
 | `19.c`                 | Multi-dimensional Array                              |
